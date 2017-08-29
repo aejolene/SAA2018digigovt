@@ -1,6 +1,9 @@
+
 # Futures and Challenges in Government Digital Archaeology
 
-#### A proposed electronic symposium for the 83rd Annual Meeting of the Society for American Archaeology, Washington, DC
+#### A proposed electronic symposium for the [83rd Annual Meeting](http://www.saa.org/AbouttheSociety/AnnualMeeting/tabid/138/Default.aspx) of the Society for American Archaeology, Washington, DC
+
+
 
 ##### Chair: Jolene Smith, Virginia Department of Historic Resources  
 
@@ -13,3 +16,11 @@ Where are we now at various levels of government service and public outreach? Wh
     
 
 **Watch this space for a list of presenters, abstracts, and presentations.**
+
+  
+
+*About the SAA Electronic Symposium format:*
+
+Papers and presentations will be made accessible here or elsewhere on the web. This will allow for in-depth discussion, live demonstrations, and creative exchange of ideas during the in-person session at the SAA annual meeting in Washington, DC.
+
+##### **Sponsored by the SAA [Digital Data Interest Group (DDIG)](http://saa.org/ForMembers/InterestGroups/DigitalDataInterestGroup/tabid/151/Default.aspx)** 
