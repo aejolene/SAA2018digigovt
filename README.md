@@ -12,4 +12,4 @@ Where are we now at various levels of government service and public outreach? Wh
   
     
 
-> Watch this space for a list of presenters, abstracts, and presentations.
+**Watch this space for a list of presenters, abstracts, and presentations.**
