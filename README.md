@@ -23,4 +23,6 @@ Where are we now at various levels of government service and public outreach? Wh
 
 Papers and presentations will be made accessible here or elsewhere on the web. This will allow for in-depth discussion, live demonstrations, and creative exchange of ideas during the in-person session at the SAA annual meeting in Washington, DC.
 
+**Contact jolene [dot] smith [at] dhr [dot] virginia [dot] gov**
+
 ##### **Sponsored by the SAA [Digital Data Interest Group (DDIG)](http://saa.org/ForMembers/InterestGroups/DigitalDataInterestGroup/tabid/151/Default.aspx)** 
