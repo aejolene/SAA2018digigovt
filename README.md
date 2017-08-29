@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+#Futures and Challenges in Government Digital Archaeology
 
-You can use the [editor on GitHub](https://github.com/aejolene/SAA2018govt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+####A proposed electronic symposium for the 83rd Annual Meeting of the Society for American Archaeology, Washington, DC
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#####Chair: Jolene Smith, Virginia Department of Historic Resources  
 
-### Markdown
+*Abstract* 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Within the public sector, archaeologists and their agencies are not only using technologies to “do” archaeology, thereby producing digital data. They are also faced with curating large volumes of digital media and datasets created by others. The quantity of information and speed of change pose challenges in making information useful and accessible to researchers, the private sector, and the public. But these factors also introduce new opportunities for understanding the material record and conveying its value.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aejolene/SAA2018govt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Where are we now? Where do we hope to go? What would we build if we were free of financial and technological constraints? This electronic symposium will explore the possibilities, along with friction points and unintended consequences of the digital deluge through demonstrations, case studies, and discussion.
