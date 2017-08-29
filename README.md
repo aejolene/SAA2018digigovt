@@ -1,8 +1,8 @@
-#Futures and Challenges in Government Digital Archaeology
+# Futures and Challenges in Government Digital Archaeology
 
-####A proposed electronic symposium for the 83rd Annual Meeting of the Society for American Archaeology, Washington, DC
+#### A proposed electronic symposium for the 83rd Annual Meeting of the Society for American Archaeology, Washington, DC
 
-#####Chair: Jolene Smith, Virginia Department of Historic Resources  
+##### Chair: Jolene Smith, Virginia Department of Historic Resources  
 
 *Abstract* 
 
