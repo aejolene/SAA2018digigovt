@@ -200,13 +200,6 @@ Texas A&amp;amp;M University&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;1: 100,000&lt;/strong&gt;                          &lt;strong&gt;1: 5,000,000&lt;/strong&gt;                     &lt;strong&gt;1: 2,000,0000&lt;/strong&gt;                            &lt;strong&gt;Donut &lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Mean               23.09                Mean                  602.11         Mean            3546.43      Mean            688.08
-Median             21.03                Median                564.83         Median          3523.52      Median          718.91
-St. Deviation      12.28                St. Deviation         272.78         St. Deviation   1470.57      St. Deviation   214.52
-&lt;strong&gt;Minimum&lt;/strong&gt;        &lt;strong&gt;4.79&lt;/strong&gt;             &lt;strong&gt;Minimum&lt;/strong&gt;           &lt;strong&gt;51.40&lt;/strong&gt;      &lt;strong&gt;Minimum&lt;/strong&gt;     &lt;strong&gt;285.33&lt;/strong&gt;   &lt;strong&gt;Minimum&lt;/strong&gt;     &lt;strong&gt;251.79&lt;/strong&gt;
-Maximum            48.40                Maximum               1468.25        Maximum         7943.30      Maximum         992.00&lt;/p&gt;
 &lt;p&gt;Table 1. A summary of the distances in meters between an observed point and the geomasked point. Notice the relatively low minimum distanced for 1: 100,000 and 1: 5,000,000.&lt;/p&gt;
 &lt;p&gt;Donut masking, some programming models, and voronoi methods have been explored for how well they maintain spatial relationships. Public health researchers indicate that each of these three methods can be used to retain clustering observed in real world locations. Donut masking can easily be implemented in archaeology with existing GIS software. Voronoi methods require an underlying polygon layer from which to create centroids, which is more conducive to studying modern residential associations than archaeological sites. Programming methods may be tailored to archaeology, but no work has been complete in this area. Digit switching in particular does not retain spatial patterning well (Seidl et al 2017). Next steps in this work will involve a quantitative study of the each of these methods and their potential for application in archaeology.&lt;/p&gt;
 &lt;h1&gt;Next Steps: Explicit Decision Making and Best Practices&lt;/h1&gt;
